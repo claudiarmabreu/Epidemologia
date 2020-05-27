@@ -48,7 +48,7 @@ This map shows the distribution of the number of recovered cases on each state o
 
 ## Statistical analysis
 
-This notebook presents several statistical analysis regarding Covid19 in USA [notebook](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Notebooks/COVID19-US-Stats.ipynb)
+This [notebook](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Notebooks/COVID19-US-Stats.ipynb) presents several statistical analysis regarding Covid19 in USA. 
 
 In this notebook, it is possible to find many top 5 and bottom 5 plots of number of cases, number of deaths, number of recovered and many others.
 
