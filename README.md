@@ -1,4 +1,4 @@
-# Mapping of COVID-19 (coronavirus) data in USA, Statistical Analysis and Parametric Curve Fitting
+# Mapping of COVID-19 data in USA, Statistical Analysis and Parametric Curve Fitting
 
 Throughout this project, some notebooks were developed in order to study, through different parameters, the epidemiological situation of the coronavirus in The United States, one of the most affected countries by the virus.
 
@@ -22,12 +22,27 @@ In this project, different Jupyter notebooks were developed:
 ## Mapping
 
 
-### Number of cases in Italy
+### Number of cases in USA
 
 This map shows the distribution of the number of cases on each state of the USA.
 
 
 ![case map](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/number_cases.png)
+
+
+### Number of deaths in USA
+
+This map shows the distribution of the number of deaths on each state of the USA.
+
+
+![death map](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/number_deaths_2.png)
+
+### Number of recovered cases in USA
+
+This map shows the distribution of the number of recovered cases on each state of the USA.
+
+
+![recovered map](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/number_recovered.png)
 
 
 ## Statistical analysis
@@ -54,7 +69,9 @@ This next plot presents a comparison between the two most affected states, NY an
 
 ### Currently ventilated Cases
 
-This pie chart shows the percentage of cases currently ventilated on each state: [Currently ventilated Cases](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Ventilated.png).
+This pie chart shows the percentage of cases currently ventilated on each state: 
+
+![Currently ventilated Cases](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Ventilated.png).
 
 
 ### Evolution of number of cases in NY
