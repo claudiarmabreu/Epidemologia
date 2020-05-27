@@ -24,8 +24,8 @@ In this project, different Jupyter notebooks were developed:
 
 ### Number of cases in Italy
 
-This mao shows the distribution of the number of cases on each state of the USA.
-Here it is possible to consult this map. [image](hhttps://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/number_cases.png)
+This map shows the distribution of the number of cases on each state of the USA.
+
 
 ![case map](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/number_cases.png)
 
@@ -36,13 +36,13 @@ This notebook presents several statistical analysis regarding Covid19 in USA [no
 
 In this notebook, it is possible to find many top 5 and bottom 5 plots of number of cases, number of deaths, number of recovered and many others.
 
-The TOP 5 Cases are presented on this [figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Top5_cases.png)
+The TOP 5 Cases are presented on this figure.
 
-![figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Top5_cases.png)
+![figure](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Top5_cases.png)
 
-The Bottom 5 Cases are presented on this [figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Bottom5_cases.png)
+The Bottom 5 Cases are presented on this figure.
 
-![figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Bottom5_cases.png)
+![figure](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Bottom5_cases.png)
 
 ### NY vs NJ
 
@@ -59,15 +59,15 @@ This pie chart shows the percentage of cases currently ventilated on each state:
 
 ### Evolution of number of cases in NY
 
-This [plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/cases_NY.png) shows the evolution of the number of positive cases in the state of New York, the most affected state, over the days, since the beginnig of this pandemic.
+This [plot](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/cases_NY.png) shows the evolution of the number of positive cases in the state of New York, the most affected state, over the days, since the beginnig of this pandemic.
 
-![plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/cases_NY.png)
+![plot](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/cases_NY.png)
 
 ### Evolution of number of recovered in NY
 
-This [plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Recovered_NY.png) shows the evolution of the number of recovered cases in NY.
+This [plot](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Recovered_NY.png) shows the evolution of the number of recovered cases in NY.
 
-![plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Recovered_NY.png)
+![plot](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Recovered_NY.png)
 
 ## Parametric Curve Fitting
 
