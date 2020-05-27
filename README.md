@@ -38,7 +38,11 @@ In this notebook, it is possible to find many top 5 and bottom 5 plots of number
 
 The TOP 5 Cases are presented on this [figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Top5_cases.png)
 
+![figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Top5_cases.png)
+
 The Bottom 5 Cases are presented on this [figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Bottom5_cases.png)
+
+![figure]  (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Bottom5_cases.png)
 
 ### NY vs NJ
 
@@ -57,12 +61,13 @@ This pie chart shows the percentage of cases currently ventilated on each state:
 
 This [plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/cases_NY.png) shows the evolution of the number of positive cases in the state of New York, the most affected state, over the days, since the beginnig of this pandemic.
 
+![plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/cases_NY.png)
 
 ### Evolution of number of recovered in NY
 
 This [plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Recovered_NY.png) shows the evolution of the number of recovered cases in NY.
 
-
+![plot] (https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/Recovered_NY.png)
 
 ## Parametric Curve Fitting
 
