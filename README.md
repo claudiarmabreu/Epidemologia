@@ -1,17 +1,18 @@
 # Mapping of COVID-19 data in USA, Statistical Analysis and Parametric Curve Fitting
 
-Throughout this project, some notebooks were developed in order to study, through different parameters, the epidemiological situation of the coronavirus in The United States, one of the most affected countries by the virus.
+Throughout this project, some notebooks were developed in order to study, through different parameters, the epidemiological situation of the coronavirus in the United States, one of the most affected countries by the virus.
 
 ## Dataset
 
-The dataset used is part of a project called "COVID19 Tracking"(https://github.com/COVID19Tracking).
+The dataset used is part of a project called "COVID19 Tracking"(https://github.com/COVID19Tracking). This project provides the most complete data available about COVID-19 in the US.
 
 
 To facilitate data access and analysis, these datasets have been changed. The datasets used are in [Dataset](https://github.com/claudiarmabreu/Epidemologia/tree/master/Projeto%20Covid-19/Dataset).
 
+
 ## Notebooks
 
-In this project, different Jupyter notebooks were developed:
+In this project, the Jupyter notebooks developed were the following:
 
 🗂️ [Mapping Covid-19 number of cases, deaths and recovered in USA (.ipynb)](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Notebooks/COVID19-US-Maps.ipynb)
 
@@ -24,7 +25,7 @@ In this project, different Jupyter notebooks were developed:
 
 ### Number of cases in USA
 
-This map shows the distribution of the number of cases on each state of the USA.
+This map shows the distribution of the number of cases on each state of the USA, in order to see the most affected states.
 
 
 ![case map](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/number_cases.png)
@@ -32,7 +33,7 @@ This map shows the distribution of the number of cases on each state of the USA.
 
 ### Number of deaths in USA
 
-This map shows the distribution of the number of deaths on each state of the USA.
+This map shows the distribution of the number of deaths on each state of the USA, so we can see which states are unable to respond to the problem very well.
 
 
 ![death map](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/number_deaths_2.png)
@@ -61,7 +62,7 @@ The Bottom 5 Cases are presented on this figure.
 
 ### NY vs NJ
 
-This next plot presents a comparison between the two most affected states, NY and NJ.
+This next plot presents a comparison between the two most affected states, NY and NJ. It is clear that NY is the most affected state by far.
 
 ![nynj](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/NY_NJ.png)
 
@@ -88,13 +89,15 @@ This [plot](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%2
 
 ## Parametric Curve Fitting
 
-When using a forecasting model, it is possible, through a curve adjustment, to find the ideal combination of parameters, capable of minimizing errors.
-Throughout the development of this Jupyter notebook, numerous [forecasting models](https://github.com/kika-nogueira97/Epidemologia/blob/master/Projeto_Italy/Notebooks/Italy_prevision.ipynb) have been developed.
-In the figure below it is possible to see the number of deaths in Molise (black dots) and the three models (blue - logistic, light blue - exponential and dark blue-linear) that try to fit the Molise curve. With the observation of the model it is possible to verify that the exponential model is the most adequate.
+In order to predict the increase on the number of cases on the following days, it was used a forecasting model. 
+Through a curve adjustment, it was possible to find the model that best fitted the evolution of number of cases. The options studied were the logistic model, exponential model and linear model.
+The black dots represent the number of cases so far and the three models are represent by the colored lines.
 
 ![curve](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/PCF.png) 
 
-Accordingly, it was also possible to find the ideal parameters for the four models.
+By observing the figure below, it is possible to verify that the logistic model is the most adequate
+
+Accordingly, it was also possible to find the ideal parameters for the model under study and the result prediction is found in the figure below.
 
 ![prediction](https://github.com/claudiarmabreu/Epidemologia/blob/master/Projeto%20Covid-19/Images/PCF2.png)
 
